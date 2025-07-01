@@ -71,7 +71,7 @@ npm run dev
 ## 🧠 Créditos
 
 Desenvolvido por **Vinícius Casagrande** 🎓  
-Orientado por: ChatGPT (apelidado carinhosamente de Gepetas 🤖)
+
 
 ---
 
